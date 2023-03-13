@@ -2,7 +2,7 @@ import "./WorkCardStyles.css"
 
 
 import React from 'react'
-// import p1 from"../assets/"
+// import p1 from"../assets/" 
 const WorkCard = () => {
   return <div className="work-container">
       <h1 className="project-heading">Projects</h1>
